@@ -8,7 +8,7 @@ A modern task management application built with React. This app allows users to 
 
 ## Project Overview
 
-### No Selected Project Overview
+### No Selected Project overview
 
 ![React Project Manager](./public/noSelection.png)
 
