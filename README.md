@@ -8,15 +8,15 @@ A modern task management application built with React. This app allows users to 
 
 ## Project Overview
 
-# No Selected Project Overview
+### No Selected Project Overview
 
 ![React Project Manager](./public/noSelection.png)
 
-# Add Project overview
+### Add Project overview
 
 ![React Project Manager](./public/add.png)
 
-# Project overview
+### Project overview
 
 ![React Project Manager](./public/overview.png)
 
