@@ -1,10 +1,26 @@
-# React Project Manager
-
-A modern task management application built with React. This app allows users to organize projects, assign tasks, and keep track of their progress with an intuitive and responsive interface.
+<div id="top"></div>
 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://react-project-manager-5a49d.web.app/">
+    <img src="./public/logo.png" alt="Logo" height="80"  >
+  </a>
+  <h1 align="center">React-Reaction-Timer</h1>
+
+  <p align="center">
+    <a href="https://react-project-manager-5a49d.web.app/">View Demo</a>
+    ·
+    <a href="https://github.com/SalahShallapy/React-Project-Manager/issues">Report Bug</a>
+  </p>
+</div>
+
+A modern task management application built with React. This app allows users to organize projects, assign tasks, and keep track of their progress with an intuitive and responsive interface.
 
 ## Project Overview
 
@@ -67,7 +83,7 @@ A modern task management application built with React. This app allows users to 
 ## File Structure
 
 ```
-React-Art
+React-Project-Manager
 │
 │      .gitignore
 │      .vite.config
