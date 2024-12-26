@@ -11,7 +11,7 @@
   <a href="https://react-project-manager-5a49d.web.app/">
     <img src="./public/logo.png" alt="Logo" height="80"  >
   </a>
-  <h1 align="center">React-Reaction-Timer</h1>
+  <h1 align="center">React-Project-Manager</h1>
 
   <p align="center">
     <a href="https://react-project-manager-5a49d.web.app/">View Demo</a>
